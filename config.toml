@@ -1,4 +1,5 @@
-baseurl = "http://www.me-time-berlin.de/"
+baseurl = "http://me-time.rgot.de/"
+#baseurl = "http://www.me-time-berlin.de/"
 languageCode = "de-de"
 title = "Me-time Berlin"
 theme = "hugo-creative-theme"
@@ -53,7 +54,7 @@ theme = "hugo-creative-theme"
         [[params.services.list]]
             icon = "fa-map-marker"
             title = "Wann und Wo:"
-            description = "Samstag, 30.3.2019<br>9:00 - 17:30 Uhr<br><br>Family Performance<br>Alt-Stralau 12<br>10245 Berlin"
+            description = "Samstag, 30.3.2019<br>9:00 - 17:30 Uhr<br><br>[Family Performance](https://goo.gl/maps/szX4vJXZNrC2)<br>Alt-Stralau 12<br>10245 Berlin<br><br><iframe width='100%' height='300' src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9716.58547866194!2d13.46921!3d52.49459!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa3d9e2f769365339!2sFamily+Performance!5e0!3m2!1sde!2sde!4v1552727848515' frameborder='0' style='border:0' allowfullscreen></iframe>"
 
 	    [[params.services.list]]
             icon = "fa-envelope"
@@ -80,4 +81,4 @@ theme = "hugo-creative-theme"
 	# About section
 	[params.contact]
 		headline    = "Kontakt"
-		text = "Fragen? Anmelden?<br>[E-Mail](mailto:me-time@gmx.de) an uns! <br><br> Impressum:<br>J. Juhnke, M. Mair-Golega und T.Liesche-Conz<br>Eine Adresse muss<br>hier her."
+		text = "Du hast Fragen? Du willst Dich anmelden?<br>Melde Dich gern! am Bester per [E-Mail](mailto:me-time@gmx.de).<br><br>Impressum:<br>J. Juhnke, M. Mair-Golega und T.Liesche-Conz<br>Eine Adresse muss<br>hier her."
