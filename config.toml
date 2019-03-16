@@ -1,6 +1,8 @@
-baseurl = "http://me-time.rgot.de/"
+baseurl = "https://me-time-berlin.github.io/me-time-berlin/"
+#baseurl = "http://me-time.rgot.de/"
 #baseurl = "http://www.me-time-berlin.de/"
 languageCode = "de-de"
+publishDir = "docs"
 title = "Me-time Berlin"
 theme = "hugo-creative-theme"
 

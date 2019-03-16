@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://me-time.rgot.de/categories/</loc>
+    <loc>https://me-time-berlin.github.io/me-time-berlin/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://me-time.rgot.de/</loc>
+    <loc>https://me-time-berlin.github.io/me-time-berlin/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://me-time.rgot.de/tags/</loc>
+    <loc>https://me-time-berlin.github.io/me-time-berlin/tags/</loc>
     <priority>0</priority>
   </url>
   
