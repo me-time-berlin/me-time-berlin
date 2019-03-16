@@ -45,6 +45,12 @@ a:focus {
     color: rgb(52, 52, 52);
 }
 
+@media(min-width:768px) {
+#about img {
+    display: inline;
+}
+}
+
 h1,
 h2,
 h3,
@@ -133,7 +139,7 @@ aside {
 @media(min-width:768px) {
     .navbar-default {
         border-color: rgba(255,255,255,.3);
-        background-color: transparent;
+        background-color: #afdc91;
     }
 
     .navbar-default .navbar-header .navbar-brand {
@@ -186,7 +192,7 @@ header {
     width: 100%;
     min-height: 1000px;
     text-align: center;
-    color: #fff;
+    color: #afdc91;
     background-image: url(../img/header-narrow.jpg);
     background-position: center;
     -webkit-background-size: cover;
@@ -217,7 +223,7 @@ header .header-content .header-content-inner p {
     margin-bottom: 50px;
     font-size: 16px;
     font-weight: 300;
-    color: rgba(255,255,255,.7);
+    color: #afdc91;
 }
 
 @media(min-width:768px) {
