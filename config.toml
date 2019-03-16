@@ -39,7 +39,7 @@ theme = "hugo-creative-theme"
 	[params.hero]
 		# To change the background of the hero section, place the 'header.jpg' at './static/img'.
 		slogan     = "<br>me-time<br>Berlin"
-		subtitle   = "One-Day- und<br>Wochenend-Retreats<br>für Frauen"
+		subtitle   = "Tages- und<br>Wochenend-Retreats<br>für Frauen"
 		buttonText = "Angebot"
 
 	# Service section
