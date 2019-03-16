@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Me-time Berlin</title>
-    <link>http://www.me-time-berlin.de/tags/</link>
+    <link>http://me-time.rgot.de/tags/</link>
     <description>Recent content in Tags on Me-time Berlin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     
-	<atom:link href="http://www.me-time-berlin.de/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://me-time.rgot.de/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

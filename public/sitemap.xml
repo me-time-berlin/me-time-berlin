@@ -3,29 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.me-time-berlin.de/post/willkommen/</loc>
-    <lastmod>2015-11-30T23:33:17+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.me-time-berlin.de/categories/</loc>
+    <loc>http://me-time.rgot.de/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.me-time-berlin.de/</loc>
-    <lastmod>2015-11-30T23:33:17+01:00</lastmod>
+    <loc>http://me-time.rgot.de/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.me-time-berlin.de/post/</loc>
-    <lastmod>2015-11-30T23:33:17+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.me-time-berlin.de/tags/</loc>
+    <loc>http://me-time.rgot.de/tags/</loc>
     <priority>0</priority>
   </url>
   
