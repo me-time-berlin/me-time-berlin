@@ -1,0 +1,83 @@
+baseurl = "http://www.me-time-berlin.de/"
+languageCode = "de-de"
+title = "Me-time Berlin"
+theme = "hugo-creative-theme"
+
+[params]
+
+	# You can use Markdown syntax for urls [text](//url.to/source) for
+	# most longer texts.
+
+	# All icons using Fontawesome's icon font. Look at fortawesome.github.io/Font-Awesome/icons/
+	# for more icons. The icons are represented by their corresponding
+	# CSS class.
+
+	# All projects of the portfolio are defined in their own files.
+	# You can find example projects at 'exampleSite/data/projects'. Copy the 'projects'
+	# folder into the 'data' directory at the root of this Hugo site.
+	# For more informtion take a look at the README.
+
+	# To provide some metadata for search engines feel free to add a few
+        # information about you and your website.
+	description = "me-time: Retreats in Berlin mit den Themen Yoga, Physio, Coaching, Beckenboden und zyklisch leben mit Raum zum Wohlfühlen, Netzwerken und Kraft Schöpfen."
+
+	# The path must be relative to the static folder
+	favicon = "favicon.ico"
+
+
+	# Navigation
+	[params.navigation]
+		brand = "Me-time Berlin"
+
+		[params.navigation.links]
+			about     = "Das me-Time Team"
+			services  = "Nächste Veranstaltung"
+			contact   = "Kontakt"
+
+	# Hero section
+	[params.hero]
+		# To change the background of the hero section, place the 'header.jpg' at './static/img'.
+		slogan     = "Me-time<br>Berlin"
+		subtitle   = "One-Day and<br>Weekend Retreats<br>für Frauen"
+		buttonText = "Angebot"
+
+	# Service section
+	[params.services]
+		headline = "Nächste Veranstaltung"
+
+	    [[params.services.list]]
+	        icon = "fa-users"
+            title = "Was Dich erwartet:"
+            description = "Gemeinsam möchten wir uns über Yoga und Tiefenentspannung mehr mit uns selbst verbinden. Die Themen Beckenboden und zyklisch leben werden hierbei eine zentrale Rolle einnehmen. Wir bieten Raum zum Wohlfühlen, Netzwerken und Kraft Schöpfen."
+
+        [[params.services.list]]
+            icon = "fa-map-marker"
+            title = "Wann und Wo:"
+            description = "Samstag, 30.3.2019<br>9:00 - 17:30 Uhr<br><br>Family Performance<br>Alt-Stralau 12<br>10245 Berlin"
+
+	    [[params.services.list]]
+            icon = "fa-envelope"
+            title = "Kosten und Anmeldung:"
+            description = "169 € inkl. Verpflegung<br>(Mittagessen + Snacks + Tee + Wasser)<br><br> Anmeldung per [E-Mail](mailto:me-time@gmx.de)."
+
+        [[params.services.list]]
+            icon = "fa-share-alt-square"
+            title = "Weitersagen:"
+            description = "Lade hier unseren [Flyer](../events/me-time 30. März 2019.pdf) und verschicke Ihn an Freundinnen oder teile diese Seite auf <a href='https://www.facebook.com/sharer/sharer.php?u=#url' target='_blank'>Facebook</a>!"
+
+
+
+	# About section
+	[params.about]
+		headline    = "Das Me-time Team:"
+		description = ""
+		descriptionLeft = "Teresa Liesche-Conz, Yogalehrerin"
+		descriptionCenter = "Margot Mair-Golega, Systemischer Coach"
+		descriptionRight = "Jette Juhnke, Physiotherapeutin"
+		buttonText  = "Alles klar!"
+
+
+	# About section
+	[params.contact]
+		headline    = "Kontakt"
+		text = "Fragen? Anmelden?<br>[E-Mail](mailto:me-time@gmx.de) an uns! <br><br> Impressum:<br>J. Juhnke, M. Mair-Golega und T.Liesche-Conz<br>Eine Adresse muss<br>hier her."
