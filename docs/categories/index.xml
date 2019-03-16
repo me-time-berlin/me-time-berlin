@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Me-time Berlin</title>
-    <link>https://me-time-berlin.github.io/me-time-berlin/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Me-time Berlin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     
-	<atom:link href="https://me-time-berlin.github.io/me-time-berlin/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
