@@ -81,4 +81,4 @@ theme = "hugo-creative-theme"
 	# About section
 	[params.contact]
 		headline    = "Kontakt"
-		text = "Du hast Fragen? Du willst Dich anmelden?<br>Melde Dich gern! am Bester per [E-Mail](mailto:me-time@gmx.de).<br><br><b>Impressum:</b><br>J. Juhnke, M. Mair-Golega und T.Liesche-Conz<br><br>Stellvertretend:<br>Margot Mair-Golega<br>Friedrich-Jacobs-Promenade 3<br>10317 Berlin"
+		text = "Du hast Fragen? Du willst Dich anmelden?<br>Melde Dich gern! Am Besten per [E-Mail](mailto:me-time@gmx.de).<br><br><b>Impressum:</b><br>J. Juhnke, M. Mair-Golega und T.Liesche-Conz<br><br>Stellvertretend:<br>Margot Mair-Golega<br>Friedrich-Jacobs-Promenade 3<br>10317 Berlin"
