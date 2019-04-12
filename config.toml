@@ -1,4 +1,4 @@
-baseurl = "http://me-time-berlin.de/"
+baseurl = "https://me-time-berlin.de/"
 languageCode = "de-de"
 publishDir = "docs"
 title = "me-time Berlin"
